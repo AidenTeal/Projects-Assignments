@@ -1,0 +1,20 @@
+Name: Aiden Teal
+SID: 1724406
+CCID: ateal
+AnonID: 1000332190
+CMPUT 274, Fall 2022
+ 
+Assessment: Weekly Exercise #3: Word_Frequency 
+
+Running instructions: git clone all the files from the freq directory and run the make test to run the test on freq.py. Or, if you have your own files you would like to test, type in python3 freq.py <insert file name here> into the command prompt and it should create a new file in the directory called <insert file name here>.out with the desired results.
+
+Notes and Assumptions: All assumptions are the same as the guarantees in the assignment description.
+    Acknowledgements: Learned about and used the OrderedDict function from https://www.geeksforgeeks.org/python-sort-python-dictionaries-by-key-or-value/.
+    This is used on line 51.
+
+# NOTE: Do NOT changes lines 1 to 4, *except* to fill in the "xyz" information
+
+# Fill in with any other information required in the
+#	Code Submissions Guideline (CSG).
+# If there is a difference between the format above and the CSG,
+#	then please use the format above.
