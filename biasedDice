@@ -1,0 +1,19 @@
+Name: Aiden Teal
+SID: 1724406
+CCID: ateal
+AnonID: 1000332190
+CMPUT 274, Fall 2022
+ 
+Assessment: Weekly Exercise #2: Unfair Dice
+
+Running instructions: git clone the Directories and files "Drivers, Exercise, Expected, Makefile, README, submission_validator.py, and unfairDice.py" into your own repository and run the submission_validator.py program. Can be done by typing "python3 submission_validator.py". After this, you may type "make test" which will run the drivers and check to see if the code outputs the correct responses.
+
+Notes and Assumptions: No notes or assumptions other than the ones listed in the assignment information document.
+    Acknowledgements: Code from https://www.geeksforgeeks.org/python-find-most-frequent-element-in-a-list/#:~:text=Make%20use%20of%20Python%20Counter,by%20using%20most_common()%20method. I used the mode function from this site as I was unsure of how to import mode (I now know it is done through importing the statistics function).
+
+# NOTE: Do NOT changes lines 1 to 4, *except* to fill in the "xyz" information
+
+# Fill in with any other information required in the
+#	Code Submissions Guideline (CSG).
+# If there is a difference between the format above and the CSG,
+#	then please use the format above.
